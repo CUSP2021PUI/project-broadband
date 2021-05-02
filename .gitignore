@@ -113,3 +113,20 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.parquet
+acs.csv
+nycha/geo_export_2c2d23a8-81f6-4219-9cc6-f3992b370d5f.dbf
+nycha/geo_export_2c2d23a8-81f6-4219-9cc6-f3992b370d5f.prj
+nycha/geo_export_2c2d23a8-81f6-4219-9cc6-f3992b370d5f.shp
+nycha/geo_export_2c2d23a8-81f6-4219-9cc6-f3992b370d5f.shx
+nyct2010_21a/nyct2010.dbf
+nyct2010_21a/nyct2010.prj
+nyct2010_21a/nyct2010.shp
+nyct2010_21a/nyct2010.shp.xml
+nyct2010_21a/nyct2010.shx
+tl_2020_36_tract/tl_2020_36_tract.cpg
+tl_2020_36_tract/tl_2020_36_tract.dbf
+tl_2020_36_tract/tl_2020_36_tract.prj
+tl_2020_36_tract/tl_2020_36_tract.shp
+tl_2020_36_tract/tl_2020_36_tract.shp.ea.iso.xml
+tl_2020_36_tract/tl_2020_36_tract.shp.iso.xml
+tl_2020_36_tract/tl_2020_36_tract.shx
